@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="841aafc1-135f-48d2-a5c2-0d6f71f8ecb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/MonthNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +36,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MonthNumber">
-    <configuration name="MonthNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.MonthNumber" />
+  <component name="RunManager" selected="Application.ArithmeticOperationsMaxMin">
+    <configuration name="ArithmeticOperationsMaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.ArithmeticOperationsMaxMin" />
       <module name="day-2-practice" />
       <extension name="coverage">
         <pattern>
@@ -52,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NaturalNumberFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.NaturalNumberFor" />
+    <configuration name="MonthNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.MonthNumber" />
       <module name="day-2-practice" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArithmeticOperationsMaxMin" />
         <item itemvalue="Application.MonthNumber" />
         <item itemvalue="Application.VowelConsonant" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.ReverseNumberFor" />
-        <item itemvalue="Application.NaturalNumberFor" />
       </list>
     </recent_temporary>
   </component>
